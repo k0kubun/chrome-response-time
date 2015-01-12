@@ -12,7 +12,7 @@
   },
   "content_scripts": [{
     "matches": ["*://*/*"],
-    "js": ["timer.js"]
+    "js": ["profiler.js"]
   }],
   "permissions": [
     "http://*/*",
