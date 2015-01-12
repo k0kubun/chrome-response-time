@@ -2,7 +2,7 @@
 
 Simple chrome extension to show response time on badge
 
-![](http://i.gyazo.com/b195d435f73d62c112e9f581003d372f.png)
+![](http://i.gyazo.com/d97988acb605747a2584343280e049b1.png)
 
 ## Install
 
